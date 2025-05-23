@@ -1,4 +1,4 @@
-# 🧩 GameDev Studio — Инди студия атмосферных игр
+# 🧩 GameDev Studio — Студия разработки игр
 
 ![Logo - Hollow Grove](https://github.com/user-attachments/assets/012eff60-e2ff-4c41-8dc9-47ffa054e7ba)
 
